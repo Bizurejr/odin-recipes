@@ -1,0 +1,10 @@
+As I am learning how to become a full stack
+developer through the odin project, one of
+my assignments is to build a recipe
+website. 
+
+Althoug I am still new to HTML, I am eager 
+to start this project. By the end, I want 
+to illustrate my ability to write HTML code,
+organizing the website, through paragraphs,
+headers and having relative and absolute 
